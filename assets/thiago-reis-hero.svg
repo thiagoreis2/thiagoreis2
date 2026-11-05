@@ -1,0 +1,40 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Thiago Reis - Full Stack Developer and Tech Lead</title>
+  <desc id="desc">A dark blue engineering-inspired portfolio header with cyan and violet accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B1830"/>
+      <stop offset="1" stop-color="#18123D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="160" y1="0" x2="1130" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#A5B4FC" stroke-opacity=".09"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1050" cy="47" r="180" fill="#4F46E5" fill-opacity=".16"/>
+  <circle cx="1116" cy="260" r="134" fill="#06B6D4" fill-opacity=".12"/>
+  <path d="M744 290C843 202 890 210 951 145C1010 82 1084 110 1170 25" stroke="url(#line)" stroke-width="2" stroke-opacity=".78"/>
+  <path d="M740 290C839 202 887 210 948 145C1007 82 1081 110 1167 25" stroke="#22D3EE" stroke-width="7" stroke-opacity=".1" filter="url(#glow)"/>
+  <g fill="#22D3EE">
+    <circle cx="744" cy="290" r="5"/><circle cx="951" cy="145" r="5"/><circle cx="1170" cy="25" r="5"/>
+  </g>
+  <g transform="translate(72 72)">
+    <rect width="52" height="52" rx="14" fill="#22D3EE" fill-opacity=".13" stroke="#22D3EE" stroke-opacity=".55"/>
+    <path d="M16 18L8 26L16 34M36 18L44 26L36 34M30 14L22 38" stroke="#67E8F9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="72" y="167" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.6">Thiago Reis</text>
+  <rect x="75" y="190" width="54" height="4" rx="2" fill="#22D3EE"/>
+  <rect x="137" y="190" width="24" height="4" rx="2" fill="#A78BFA"/>
+  <text x="72" y="234" fill="#A5B4FC" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="600" letter-spacing="2.2">FULL STACK DEVELOPER  /  TECH LEAD  /  AI SYSTEMS</text>
+  <text x="72" y="274" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="17">Building useful software where product, systems, and operations meet.</text>
+</svg>
