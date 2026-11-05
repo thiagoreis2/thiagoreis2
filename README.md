@@ -1,48 +1,55 @@
-<h1 align="center">Thiago Reis</h1>
-
 <p align="center">
-  <strong>Full Stack Developer · Tech Lead · AI Builder</strong><br />
-  Transformando problemas de negócio em produtos digitais confiáveis.
+  <img src="https://raw.githubusercontent.com/thiagoreis2/thiagoreis2/main/assets/thiago-reis-hero.svg" alt="Thiago Reis — Full Stack Developer, Tech Lead and AI Systems" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagoafrika/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Thiago on LinkedIn" />
   </a>
+  <img src="https://img.shields.io/badge/Based_in-Taubate%2C_BR-111827?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Based in Taubate, Brazil" />
 </p>
 
----
+<br />
 
-## O que eu faço
+## Who I am
 
-Desenvolvo aplicações web, integrações e automações de ponta a ponta — da arquitetura à produção. Gosto de estar na interseção entre tecnologia e operação: entender o problema real, reduzir a complexidade e entregar uma solução que faça diferença no dia a dia.
+I am a Full Stack Developer and Tech Lead who turns operational complexity into useful, dependable software.
 
-Hoje, também aplico IA em produtos e processos para criar fluxos mais inteligentes, úteis e seguros.
+I work from the first architecture conversation to production: aligning technical decisions with the actual people, processes, and business outcomes behind a product. My current focus is on web platforms, integrations, automation, and applied AI.
 
-| Construo | Priorizo |
-| --- | --- |
-| Produtos web e plataformas internas | Arquitetura simples e escalável |
-| APIs, integrações e automações | Segurança e manutenção no longo prazo |
-| Recursos de IA para problemas reais | Decisões guiadas pelo contexto do negócio |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>01 — I build</h3>
+      Web products, internal platforms, APIs, integrations, and automations that remove friction from real operations.
+    </td>
+    <td width="50%">
+      <h3>02 — I lead</h3>
+      Technical decisions with a practical lens: understandable architecture, secure delivery, and systems people can maintain.
+    </td>
+  </tr>
+</table>
 
-## Stack principal
+## Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
 </p>
 
-## Como eu penso
+React · TypeScript · Node.js · Python · PostgreSQL · REST APIs · Docker · Cloud · CI/CD · AI integrations
 
-> Gerar código está cada vez mais fácil. Entender arquitetura, dados, infraestrutura e segurança é o que faz uma solução continuar funcionando depois que vai para produção.
+## Engineering principle
 
----
+> Shipping code is only the beginning. The work is making sure the system remains secure, understandable, and useful after it reaches production.
+
+<br />
 
 <p align="center">
-  <strong>Aberto a conversar sobre produtos, integrações, automação e IA aplicada.</strong><br />
-  <a href="https://www.linkedin.com/in/thiagoafrika/">Vamos nos conectar no LinkedIn →</a>
+  <strong>Building something that needs product thinking and solid engineering?</strong><br />
+  <a href="https://www.linkedin.com/in/thiagoafrika/">Let's talk →</a>
 </p>
