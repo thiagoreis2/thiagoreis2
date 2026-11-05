@@ -47,6 +47,14 @@ React · TypeScript · Node.js · Python · PostgreSQL · REST APIs · Docker ·
 
 > Shipping code is only the beginning. The work is making sure the system remains secure, understandable, and useful after it reaches production.
 
+<details>
+  <summary><strong>The emotional lifecycle of shipping software</strong></summary>
+  <br />
+  <p align="center">
+    <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif" width="360" alt="Programming meme" />
+  </p>
+</details>
+
 <br />
 
 <p align="center">
