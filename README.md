@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Thiago Reis
 
-<!--
-**thiagoreis2/thiagoreis2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer and Tech Lead building web applications, integrations, and automations that turn business needs into reliable products.
 
-Here are some ideas to get you started:
+I work mainly with **React, TypeScript, Node.js, Python, and PostgreSQL**, alongside REST APIs, Docker, cloud, CI/CD, and third-party integrations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience spans technical architecture through production delivery, with a focus on solutions that are simple, secure, and maintainable. I also apply AI to products and processes to solve practical problems.
+
+## Areas of focus
+
+- Full stack web development
+- System architecture and integrations
+- Automations and APIs
+- Technical leadership and collaboration across product, business, and engineering
+- Applied AI for products and operations
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/thiagoafrika/)
