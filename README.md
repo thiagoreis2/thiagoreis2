@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/thiagoafrika/">
     <img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Thiago on LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Based_in-Taubate%2C_BR-111827?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Based in Taubate, Brazil" />
+  <img src="https://img.shields.io/badge/Based_in-Sao_Paulo%2C_BR-111827?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Based in Sao Paulo, Brazil" />
 </p>
 
 <br />
@@ -47,13 +47,9 @@ React · TypeScript · Node.js · Python · PostgreSQL · REST APIs · Docker ·
 
 > Shipping code is only the beginning. The work is making sure the system remains secure, understandable, and useful after it reaches production.
 
-<details>
-  <summary><strong>The emotional lifecycle of shipping software</strong></summary>
-  <br />
-  <p align="center">
-    <img src="https://media.giphy.com/media/SYHz66JfYHbBtZXjHy/giphy.gif" width="360" alt="Programming meme" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://i.giphy.com/SYHz66JfYHbBtZXjHy.gif" width="360" alt="A programming meme" />
+</p>
 
 <br />
 
